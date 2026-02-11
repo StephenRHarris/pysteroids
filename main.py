@@ -15,9 +15,9 @@ def main():
             if event.type == pygame.QUIT:
                 return
         screen.fill("black")
+        pygame.display.flip()
         dt = pyClock.tick(60)/1000
         #print(f"time: {dt}")
-        pygame.display.flip()
 
 
 
