@@ -10,3 +10,4 @@ wheels/
 .venv
 .zed
 game_state.jsonl
+game_events.jsonl
