@@ -1,3 +1,4 @@
 {
+  "soft_wrap": "editor_width",
   "enable_language_server": false
 }
